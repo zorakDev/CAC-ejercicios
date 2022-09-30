@@ -27,7 +27,38 @@
     font-size: 100%;
 }
 
+.carousel-inner{
+        height: 550px;
+}
+
 .buttoncolor {
 
     background-color: rgb(150, 201, 62);
+}
+
+
+
+.container-fluid
+{
+    position: relative;
+    
+}
+
+.textoizquierdaabajo
+{
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  font-size: relative;
+  color:white;
+}
+
+.alineartextoderecha
+{
+    text-align: right;
+}
+
+.brillo
+{
+    filter: brightness(40%);
 }
