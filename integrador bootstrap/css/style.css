@@ -1,0 +1,33 @@
+.navcolor {
+    background-color: rgb(51, 58, 64);
+} 
+
+
+.codoacodo {
+    width: 9rem;
+    height: 5rem;
+}
+
+.imgmain{
+    background-image: url(../images/ba1.jpg);
+}
+
+.dashed {
+
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+.footer {
+
+    background-color: rgb(27, 56, 72);
+    width: auto;
+    height: auto;
+    padding-top: 0.5cm;
+    font-size: 100%;
+}
+
+.buttoncolor {
+
+    background-color: rgb(150, 201, 62);
+}
